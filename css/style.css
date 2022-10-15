@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(../../Assets/backgroundLp.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+}
+
+.container1 {
+  background-color: rgba(19, 18, 18, 0.9450980392);
+  width: 450px;
+  height: auto;
+}
+
+.topLogo {
+  width: 180px;
+}
+
+.btnSucess {
+  color: #ff0043;
+}
+.btnSucess:hover {
+  background-color: #ff0043;
+  color: white;
+}
+
+footer {
+  text-align: center;
+  margin-top: 10vh;
+}
+
+/*# sourceMappingURL=style.css.map */
